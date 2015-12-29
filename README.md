@@ -1,6 +1,6 @@
 # siftr-dynamic-scaling
 A responsive demonstration of Siftr's gallery drawer
 
-Setup:
+_Setup:_
 
-Download. open in browser
+Download, open in browser
